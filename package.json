@@ -1,0 +1,16 @@
+{
+  "name": "tackle-sale-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris DeMars",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^4.1.0",
+    "playwright": "^1.52.0",
+    "twilio": "^5.7.0"
+  }
+}
